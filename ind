@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI in Sports</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>AI Solutions in Sports</h1>
+    <p>Improving Performance, Preventing Injuries, Enhancing Strategy</p>
+</header>
+
+<section>
+    <h2>🏃 Player Performance Analysis</h2>
+    <p>AI analyzes player data to improve training and performance.</p>
+</section>
+
+<section>
+    <h2>⚕️ Injury Prediction</h2>
+    <p>Machine learning predicts injuries before they happen.</p>
+</section>
+
+<section>
+    <h2>📊 Game Strategy Optimization</h2>
+    <p>AI helps teams create better strategies using data insights.</p>
+</section>
+
+<section>
+    <h2>💬 Try AI Demo</h2>
+    <input type="text" id="userInput" placeholder="Ask about sports analytics...">
+    <button onclick="getResponse()">Ask AI</button>
+    <p id="response"></p>
+</section>
+
+<footer>
+    <p>© 2026 AI Sports Solutions</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
